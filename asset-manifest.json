@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.1aa277f1.css",
-    "main.js": "/static/js/main.5f729b18.js",
+    "main.css": "/static/css/main.fa79f3cd.css",
+    "main.js": "/static/js/main.d6c10689.js",
+    "static/media/GTWalsheimPro-Light.ttf": "/static/media/GTWalsheimPro-Light.0a89fe38505661051946.ttf",
     "index.html": "/index.html",
-    "main.1aa277f1.css.map": "/static/css/main.1aa277f1.css.map",
-    "main.5f729b18.js.map": "/static/js/main.5f729b18.js.map"
+    "main.fa79f3cd.css.map": "/static/css/main.fa79f3cd.css.map",
+    "main.d6c10689.js.map": "/static/js/main.d6c10689.js.map"
   },
   "entrypoints": [
-    "static/css/main.1aa277f1.css",
-    "static/js/main.5f729b18.js"
+    "static/css/main.fa79f3cd.css",
+    "static/js/main.d6c10689.js"
   ]
 }
